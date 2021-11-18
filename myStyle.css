@@ -39,3 +39,32 @@
     margin-bottom: 20px;
     transition: ease-in-out 0.3s;
 } 
+
+.site-section{
+    padding-bottom: 0px!important;
+}
+.img-fluid-2{
+    height: 200px;
+    width: 100%;
+}
+.drop-down{
+    visibility: hidden;
+    position: absolute;
+    margin-left: -40px;
+}
+
+.drop-down li{
+    list-style-type: none;  
+}
+
+.drop-down li a {
+    color: white;
+}
+
+.drop-down .nav-link:hover{
+    color:greenyellow;
+}
+
+.drop-down-menu:hover .drop-down{
+    visibility: visible;
+}
