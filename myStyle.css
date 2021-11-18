@@ -68,3 +68,7 @@
 .drop-down-menu:hover .drop-down{
     visibility: visible;
 }
+
+.text-div{
+margin-left: -200px;
+}
