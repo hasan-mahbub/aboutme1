@@ -70,5 +70,9 @@
 }
 
 .text-div{
-margin-left: -200px;
+margin-left: 0px;
+}
+
+footer{
+    background-color: white;
 }
